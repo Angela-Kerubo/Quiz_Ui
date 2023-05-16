@@ -1,20 +1,54 @@
 {
-  "quiz_name": "My Python Quiz",
   "questions": [
     {
       "question": "What is the capital of France?",
-      "options": ["Paris", "Madrid", "Rome", "London"],
+      "options": ["Madrid", "Paris", "Rome", "London"],
       "answer": "Paris"
     },
     {
-      "question": "Which programming language is used for building web applications?",
-      "options": ["Python", "Java", "JavaScript", "C++"],
-      "answer": "JavaScript"
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
     },
     {
-      "question": "What is the largest planet in our solar system?",
-      "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
-      "answer": "Jupiter"
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Fe", "Au", "Hg"],
+      "answer": "Au"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Michelangelo"],
+      "answer": "Leonardo da Vinci"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["K2", "Mount Everest", "Kangchenjunga", "Makalu"],
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["George Bernard Shaw", "Arthur Miller", "William Shakespeare", "Tennessee Williams"],
+      "answer": "William Shakespeare"
+    },
+    {
+      "question": "Which country is known as the 'Land of the Rising Sun'?",
+      "options": ["China", "Japan", "South Korea", "Thailand"],
+      "answer": "Japan"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Liver", "Heart", "Brain", "Skin"],
+      "answer": "Skin"
+    },
+    {
+      "question": "Which scientist developed the theory of relativity?",
+      "options": ["Isaac Newton", "Galileo Galilei", "Albert Einstein", "Nikola Tesla"],
+      "answer": "Albert Einstein"
     }
   ]
 }
