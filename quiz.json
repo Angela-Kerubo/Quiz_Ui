@@ -1,0 +1,20 @@
+{
+  "quiz_name": "My Python Quiz",
+  "questions": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "Madrid", "Rome", "London"],
+      "answer": "Paris"
+    },
+    {
+      "question": "Which programming language is used for building web applications?",
+      "options": ["Python", "Java", "JavaScript", "C++"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Mars", "Jupiter", "Saturn", "Neptune"],
+      "answer": "Jupiter"
+    }
+  ]
+}
